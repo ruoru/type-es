@@ -1,0 +1,32 @@
+{
+  "name": "type-es",
+  "version": "0.0.0",
+  "description": "ECMAScript type helper",
+  "main": "index.js",
+  "directories": {
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruoru/type-es.git"
+  },
+  "keywords": [
+    "type",
+    "types",
+    "util",
+    "utils",
+    "type-es"
+  ],
+  "author": "ruoru",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ruoru/type-es/issues"
+  },
+  "homepage": "https://github.com/ruoru/type-es#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
