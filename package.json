@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "ECMAScript type helper",
   "main": "index.js",
+  "type": "module",
   "directories": {
     "test": "node --experimental-vm-modules node_modules/.bin/jest"
   },
