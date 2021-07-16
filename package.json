@@ -1,6 +1,6 @@
 {
   "name": "type-es",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ECMAScript type helper",
   "main": "index.js",
   "directories": {
