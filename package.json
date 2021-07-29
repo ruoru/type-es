@@ -1,6 +1,6 @@
 {
   "name": "type-es",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "ECMAScript type helper",
   "main": "src/index.js",
   "type": "module",
